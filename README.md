@@ -17,5 +17,5 @@ Python Intelligence Detective is a gamified learning platform designed to teach 
 ## Installation
 1. Ensure Python 3.8+ is installed on your system.
 2. Install required packages:
-   pip install streamlit pandas matplotlib plotly
+    pip install streamlit pandas matplotlib plotly
 3. Place app.py in your desired directory.
